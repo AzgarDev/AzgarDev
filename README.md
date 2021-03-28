@@ -6,6 +6,7 @@
 - 🔭 Year Goal: **Finish my pentesting course**
 - ⚡ Fun Fact:  **I am not that good at coding :/**
 <br />
+
 ## Github Stats
 
 <details>
