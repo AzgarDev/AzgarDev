@@ -1,3 +1,5 @@
+[reddit]: https://www.reddit.com/user/Azg4rD
+[github]: https://www.github.com/AzgarDev
 
 ## Hi there, I'm [AzgarDev](https://github.com/AzgarDev) 👋
 
@@ -6,6 +8,11 @@
 - 🔭 Year Goal: **Finish my pentesting course**
 - ⚡ Fun Fact:  **I am not that good at coding :/**
 <br />
+
+## Few places that i exist:
+
+[<img align="left" alt="AzgarDev | Github" width="25px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="AzgarDev | Reddit" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 
 ## Github Stats
 
