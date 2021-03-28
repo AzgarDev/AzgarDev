@@ -14,6 +14,7 @@
 [<img align="left" alt="AzgarDev | Github" width="25px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="AzgarDev | Reddit" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 
+
 ## Github Stats
 
 <details>
