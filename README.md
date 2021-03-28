@@ -1,9 +1,9 @@
 
 ## Hi there, I'm [AzgarDev](https://github.com/AzgarDev) 👋
 
-- 🥅 I’m Currently: **Studding pentesting**
+- 🥅 I’m Currently: **Studding**
 - 🌱 I’m Learning: **Python**
-- 🔭 Year Goal: **Finish my course**
+- 🔭 Year Goal: **Finish my pentesting course**
 - ⚡ Fun Fact:  **I am not that good at coding :/**
 
 <br />
