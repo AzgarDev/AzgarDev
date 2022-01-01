@@ -4,6 +4,6 @@
 ## Hi there, I'm [AzgarDev](https://github.com/AzgarDev) 👋
 
 - 🥅 I’m Currently: **Studding**
-- 🌱 I’m Learning: **Python**
-- 🔭 Year Goal: **Finish my pentesting course**
+- 🌱 I’m Learning: **C#**
+- 🔭 Year Goal: **Be fluent in C++**
 - ⚡ Fun Fact:  **Cheese.**
